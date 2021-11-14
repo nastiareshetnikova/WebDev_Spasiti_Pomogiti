@@ -1,0 +1,23 @@
+header {background: black}
+main {background: black;}
+h1 {color:white;
+background: #5200cc;
+}
+footer {color:  #8080ff;
+background: black;}
+#bio {color:white;
+background:  #5c00e6;
+}
+#unitmoebius {color:white; 
+	background:#751aff;
+}
+#intergalacticfm {color:white;
+background: #8533ff;
+}
+#links {color:white;
+background: #a366ff
+}
+p {color:#8080ff;}
+div {background: black}
+li {color:#8080ff;}
+a {color:white;}
